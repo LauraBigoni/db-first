@@ -1,0 +1,2 @@
+Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
+All'interno della cartella potete scrivere tutto in un semplice file di testo (.txt) o se preferite lavorare con excel potete farlo ma magari allegate un'immagine del vostro foglio 
